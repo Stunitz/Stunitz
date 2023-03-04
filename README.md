@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--  🔍 I'm currently working on a device simulator that call communicate with Azure IoT Hub.
+-  🔍 I'm currently working on a device simulator that can communicate with Azure IoT Hub.
 -  📖 I'm currently learning statistics in my spare time.
 <!-- -  🤝 I'm looking to collaborate on -->
